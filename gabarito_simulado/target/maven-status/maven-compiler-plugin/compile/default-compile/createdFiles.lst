@@ -1,0 +1,7 @@
+br/senai/dswe/gabarito_simulado/entity/Pedido.class
+br/senai/dswe/gabarito_simulado/controller/PedidoController.class
+br/senai/dswe/gabarito_simulado/service/PedidoService.class
+br/senai/dswe/gabarito_simulado/controller/ProdutoController.class
+br/senai/dswe/gabarito_simulado/service/ProdutoService.class
+br/senai/dswe/gabarito_simulado/GabaritoSimuladoApplication.class
+br/senai/dswe/gabarito_simulado/entity/Produto.class
